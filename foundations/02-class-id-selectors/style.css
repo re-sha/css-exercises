@@ -1,0 +1,16 @@
+#fourth-line {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+#second-line {
+    color: blue;
+    font-size: 36px;
+}
+.odd-line {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.third-line {
+    font-size: 24px;
+}
